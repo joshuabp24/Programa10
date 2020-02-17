@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Programa10\Programa10\bin\Debug\Programa10.exe.config
+C:\Users\PC\Desktop\Programa10\Programa10\bin\Debug\Programa10.exe
+C:\Users\PC\Desktop\Programa10\Programa10\bin\Debug\Programa10.pdb
+C:\Users\PC\Desktop\Programa10\Programa10\obj\Debug\Programa10.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Programa10\Programa10\obj\Debug\Programa10.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programa10\Programa10\obj\Debug\Programa10.exe
+C:\Users\PC\Desktop\Programa10\Programa10\obj\Debug\Programa10.pdb
